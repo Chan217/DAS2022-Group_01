@@ -172,3 +172,5 @@ check model accuracy
 accuracy_Test <- sum(diag(table_mat)) / sum(table_mat)
 accuracy_Test
 ```
+
+a
